@@ -1,0 +1,11 @@
+{
+  "giant cell tumor": 1,
+  "multiple osteochondromas": 2,
+  "osteochondroma": 3,
+  "osteofibroma": 4,
+  "osteosarcoma": 5,
+  "other bt": 6,
+  "other mt": 7,
+  "simple bone cyst": 8,
+  "synovial osteochondroma": 9
+}
