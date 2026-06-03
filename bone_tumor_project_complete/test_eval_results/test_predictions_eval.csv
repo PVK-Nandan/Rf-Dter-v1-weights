@@ -1,0 +1,772 @@
+image,prediction,score,gt,iou,status
+IMG000014.jpeg,osteosarcoma,0.9147,osteosarcoma,0.7742,TP
+IMG000014.jpeg,osteosarcoma,0.8683,osteosarcoma,0.722,TP
+IMG000024.jpeg,osteosarcoma,0.6508,osteosarcoma,0.6587,TP
+IMG000024.jpeg,osteosarcoma,0.6446,osteosarcoma,0.6413,TP
+IMG000024.jpeg,other mt,0.3673,,0.0,FP
+IMG000024.jpeg,other mt,0.2705,,0.0,FP
+IMG000052.jpeg,osteosarcoma,0.86,osteosarcoma,0.8517,TP
+IMG000052.jpeg,osteosarcoma,0.8047,osteosarcoma,0.7636,TP
+IMG000055.jpeg,osteosarcoma,0.9083,osteosarcoma,0.7564,TP
+IMG000055.jpeg,osteosarcoma,0.8943,osteosarcoma,0.7528,TP
+IMG000062.jpeg,osteosarcoma,0.8792,osteosarcoma,0.6271,TP
+IMG000062.jpeg,osteosarcoma,0.8453,osteosarcoma,0.5938,TP
+IMG000066.jpeg,osteosarcoma,0.8474,osteosarcoma,0.8267,TP
+IMG000066.jpeg,osteosarcoma,0.8197,osteosarcoma,0.7405,TP
+IMG000089.jpeg,osteosarcoma,0.9184,osteosarcoma,0.8775,TP
+IMG000089.jpeg,osteosarcoma,0.9182,osteosarcoma,0.8238,TP
+IMG000094.jpeg,osteosarcoma,0.709,osteosarcoma,0.6455,TP
+IMG000094.jpeg,osteosarcoma,0.5867,osteosarcoma,0.6231,TP
+IMG000094.jpeg,osteosarcoma,0.5299,,0.0,FP
+IMG000097.jpeg,osteosarcoma,0.7851,osteosarcoma,0.9043,TP
+IMG000097.jpeg,osteosarcoma,0.6637,osteosarcoma,0.7703,TP
+IMG000097.jpeg,osteosarcoma,0.5741,,0.0,FP
+IMG000115.jpeg,osteosarcoma,0.7058,osteosarcoma,0.8006,TP
+IMG000115.jpeg,osteosarcoma,0.6925,osteosarcoma,0.824,TP
+IMG000131.jpeg,osteosarcoma,0.8444,osteosarcoma,0.6547,TP
+IMG000131.jpeg,osteosarcoma,0.8437,osteosarcoma,0.64,TP
+IMG000136.jpeg,osteosarcoma,0.958,osteosarcoma,0.9621,TP
+IMG000136.jpeg,osteosarcoma,0.9538,osteosarcoma,0.9688,TP
+IMG000143.jpeg,osteosarcoma,0.9042,osteosarcoma,0.8966,TP
+IMG000143.jpeg,osteosarcoma,0.8973,osteosarcoma,0.8948,TP
+IMG000147.jpeg,osteosarcoma,0.9101,osteosarcoma,0.8709,TP
+IMG000147.jpeg,osteosarcoma,0.9003,osteosarcoma,0.9047,TP
+IMG000162.jpeg,osteosarcoma,0.908,osteosarcoma,0.8585,TP
+IMG000162.jpeg,osteosarcoma,0.888,osteosarcoma,0.7781,TP
+IMG000164.jpeg,osteosarcoma,0.8954,osteosarcoma,0.9107,TP
+IMG000164.jpeg,osteosarcoma,0.8918,osteosarcoma,0.8682,TP
+IMG000179.jpeg,osteosarcoma,0.8995,,0.1774,FP
+IMG000179.jpeg,osteosarcoma,0.8937,,0.1833,FP
+IMG000179.jpeg,,,osteosarcoma,,FN
+IMG000179.jpeg,,,osteosarcoma,,FN
+IMG000187.jpeg,osteosarcoma,0.5617,osteosarcoma,0.6747,TP
+IMG000187.jpeg,osteosarcoma,0.4632,osteosarcoma,0.8346,TP
+IMG000187.jpeg,osteosarcoma,0.4036,,0.0,FP
+IMG000190.jpeg,osteosarcoma,0.6199,,0.2603,FP
+IMG000190.jpeg,osteosarcoma,0.5749,,0.2672,FP
+IMG000190.jpeg,,,osteosarcoma,,FN
+IMG000190.jpeg,,,osteosarcoma,,FN
+IMG000192.jpeg,osteosarcoma,0.884,osteosarcoma,0.9099,TP
+IMG000192.jpeg,osteosarcoma,0.8702,osteosarcoma,0.9285,TP
+IMG000199.jpeg,osteosarcoma,0.4515,osteosarcoma,0.7367,TP
+IMG000199.jpeg,osteochondroma,0.4321,,0.0,FP
+IMG000199.jpeg,osteosarcoma,0.4314,osteosarcoma,0.7292,TP
+IMG000199.jpeg,osteosarcoma,0.388,,0.0,FP
+IMG000199.jpeg,osteosarcoma,0.3414,,0.0,FP
+IMG000199.jpeg,osteochondroma,0.3238,,0.0,FP
+IMG000199.jpeg,osteosarcoma,0.2734,,0.0,FP
+IMG000199.jpeg,osteochondroma,0.2511,,0.0,FP
+IMG000207.jpeg,osteosarcoma,0.9529,osteosarcoma,0.9536,TP
+IMG000207.jpeg,osteosarcoma,0.9478,osteosarcoma,0.9534,TP
+IMG000210.jpeg,synovial osteochondroma,0.5983,,0.0,FP
+IMG000210.jpeg,synovial osteochondroma,0.5638,,0.0,FP
+IMG000210.jpeg,,,other mt,,FN
+IMG000210.jpeg,,,other mt,,FN
+IMG000225.jpeg,osteosarcoma,0.8193,osteosarcoma,0.7601,TP
+IMG000225.jpeg,osteosarcoma,0.8095,osteosarcoma,0.737,TP
+IMG000229.jpeg,osteosarcoma,0.8317,osteosarcoma,0.7289,TP
+IMG000229.jpeg,osteosarcoma,0.8241,osteosarcoma,0.7185,TP
+IMG000235.jpeg,giant cell tumor,0.9524,giant cell tumor,0.8987,TP
+IMG000235.jpeg,giant cell tumor,0.9508,giant cell tumor,0.8321,TP
+IMG000256.jpeg,osteochondroma,0.8455,osteochondroma,0.8219,TP
+IMG000256.jpeg,osteochondroma,0.8103,osteochondroma,0.7627,TP
+IMG000284.jpeg,,,osteochondroma,,FN
+IMG000284.jpeg,,,osteochondroma,,FN
+IMG000286.jpeg,osteochondroma,0.4402,,0.0,FP
+IMG000286.jpeg,osteochondroma,0.4032,,0.0,FP
+IMG000286.jpeg,osteochondroma,0.3214,,0.0,FP
+IMG000286.jpeg,osteochondroma,0.3064,osteochondroma,0.6768,TP
+IMG000286.jpeg,osteochondroma,0.2981,,0.0,FP
+IMG000286.jpeg,osteochondroma,0.2954,osteochondroma,0.5955,TP
+IMG000286.jpeg,osteochondroma,0.2771,,0.0,FP
+IMG000286.jpeg,osteochondroma,0.2507,,0.0,FP
+IMG000293.jpeg,osteochondroma,0.3401,,0.0,FP
+IMG000293.jpeg,simple bone cyst,0.3316,,0.0,FP
+IMG000293.jpeg,simple bone cyst,0.3043,,0.0,FP
+IMG000293.jpeg,osteochondroma,0.2963,,0.0,FP
+IMG000293.jpeg,osteochondroma,0.2706,,0.4095,FP
+IMG000293.jpeg,osteochondroma,0.2541,,0.4263,FP
+IMG000293.jpeg,,,osteochondroma,,FN
+IMG000293.jpeg,,,osteochondroma,,FN
+IMG000314.jpeg,osteochondroma,0.8908,osteochondroma,0.8574,TP
+IMG000314.jpeg,osteochondroma,0.8861,osteochondroma,0.8775,TP
+IMG000319.jpeg,osteochondroma,0.6962,osteochondroma,0.8798,TP
+IMG000319.jpeg,osteochondroma,0.6869,osteochondroma,0.8683,TP
+IMG000327.jpeg,osteochondroma,0.8478,osteochondroma,0.8427,TP
+IMG000327.jpeg,osteochondroma,0.8413,osteochondroma,0.6733,TP
+IMG000328.jpeg,osteochondroma,0.9263,osteochondroma,0.957,TP
+IMG000328.jpeg,osteochondroma,0.9231,osteochondroma,0.9654,TP
+IMG000334.jpeg,osteochondroma,0.8074,osteochondroma,0.7544,TP
+IMG000334.jpeg,osteochondroma,0.7889,osteochondroma,0.7256,TP
+IMG000335.jpeg,osteochondroma,0.7948,osteochondroma,0.6687,TP
+IMG000335.jpeg,osteochondroma,0.7843,osteochondroma,0.6679,TP
+IMG000351.jpeg,osteochondroma,0.8512,osteochondroma,0.5826,TP
+IMG000351.jpeg,osteochondroma,0.8459,osteochondroma,0.5667,TP
+IMG000394.jpeg,multiple osteochondromas,0.8963,,0.3859,FP
+IMG000394.jpeg,multiple osteochondromas,0.896,,0.4128,FP
+IMG000394.jpeg,,,multiple osteochondromas,,FN
+IMG000394.jpeg,,,multiple osteochondromas,,FN
+IMG000394.jpeg,,,multiple osteochondromas,,FN
+IMG000394.jpeg,,,multiple osteochondromas,,FN
+IMG000394.jpeg,,,multiple osteochondromas,,FN
+IMG000394.jpeg,,,multiple osteochondromas,,FN
+IMG000394.jpeg,,,multiple osteochondromas,,FN
+IMG000394.jpeg,,,multiple osteochondromas,,FN
+IMG000394.jpeg,,,multiple osteochondromas,,FN
+IMG000394.jpeg,,,multiple osteochondromas,,FN
+IMG000394.jpeg,,,multiple osteochondromas,,FN
+IMG000394.jpeg,,,multiple osteochondromas,,FN
+IMG000408.jpeg,osteochondroma,0.4558,,0.0,FP
+IMG000408.jpeg,osteochondroma,0.429,,0.0,FP
+IMG000408.jpeg,osteochondroma,0.2928,,0.1033,FP
+IMG000408.jpeg,osteochondroma,0.2899,,0.0,FP
+IMG000408.jpeg,osteochondroma,0.2794,,0.2106,FP
+IMG000408.jpeg,,,osteochondroma,,FN
+IMG000408.jpeg,,,osteochondroma,,FN
+IMG000430.jpeg,osteochondroma,0.8445,,0.4164,FP
+IMG000430.jpeg,osteochondroma,0.8371,,0.4233,FP
+IMG000430.jpeg,osteochondroma,0.8277,osteochondroma,0.6936,TP
+IMG000430.jpeg,osteochondroma,0.8106,osteochondroma,0.7012,TP
+IMG000430.jpeg,,,osteochondroma,,FN
+IMG000430.jpeg,,,osteochondroma,,FN
+IMG000433.jpeg,simple bone cyst,0.8947,simple bone cyst,0.9255,TP
+IMG000433.jpeg,simple bone cyst,0.8821,simple bone cyst,0.9304,TP
+IMG000436.jpeg,osteochondroma,0.7684,,0.0,FP
+IMG000436.jpeg,osteochondroma,0.7341,,0.0,FP
+IMG000436.jpeg,,,osteofibroma,,FN
+IMG000436.jpeg,,,osteofibroma,,FN
+IMG000441.jpeg,osteochondroma,0.4474,osteochondroma,0.761,TP
+IMG000441.jpeg,osteochondroma,0.4331,osteochondroma,0.7222,TP
+IMG000448.jpeg,multiple osteochondromas,0.8237,,0.1863,FP
+IMG000448.jpeg,multiple osteochondromas,0.7848,,0.1677,FP
+IMG000448.jpeg,multiple osteochondromas,0.3407,,0.0551,FP
+IMG000448.jpeg,multiple osteochondromas,0.309,,0.0415,FP
+IMG000448.jpeg,,,multiple osteochondromas,,FN
+IMG000448.jpeg,,,multiple osteochondromas,,FN
+IMG000450.jpeg,multiple osteochondromas,0.7446,multiple osteochondromas,0.5642,TP
+IMG000450.jpeg,multiple osteochondromas,0.7295,multiple osteochondromas,0.5456,TP
+IMG000452.jpeg,multiple osteochondromas,0.5419,,0.1519,FP
+IMG000452.jpeg,multiple osteochondromas,0.4384,,0.1395,FP
+IMG000452.jpeg,multiple osteochondromas,0.398,,0.2198,FP
+IMG000452.jpeg,multiple osteochondromas,0.3265,,0.2453,FP
+IMG000452.jpeg,multiple osteochondromas,0.3067,,0.2683,FP
+IMG000452.jpeg,,,multiple osteochondromas,,FN
+IMG000452.jpeg,,,multiple osteochondromas,,FN
+IMG000452.jpeg,,,multiple osteochondromas,,FN
+IMG000452.jpeg,,,multiple osteochondromas,,FN
+IMG000458.jpeg,multiple osteochondromas,0.7843,multiple osteochondromas,0.5486,TP
+IMG000458.jpeg,multiple osteochondromas,0.6955,,0.4557,FP
+IMG000458.jpeg,,,multiple osteochondromas,,FN
+IMG000458.jpeg,,,multiple osteochondromas,,FN
+IMG000458.jpeg,,,multiple osteochondromas,,FN
+IMG000458.jpeg,,,multiple osteochondromas,,FN
+IMG000458.jpeg,,,multiple osteochondromas,,FN
+IMG000467.jpeg,simple bone cyst,0.8205,simple bone cyst,0.8472,TP
+IMG000467.jpeg,simple bone cyst,0.8176,simple bone cyst,0.7874,TP
+IMG000470.jpeg,osteochondroma,0.5422,,0.2522,FP
+IMG000470.jpeg,osteochondroma,0.4523,osteochondroma,0.8002,TP
+IMG000470.jpeg,osteochondroma,0.4303,,0.2652,FP
+IMG000470.jpeg,osteochondroma,0.3478,osteochondroma,0.668,TP
+IMG000477.jpeg,multiple osteochondromas,0.9393,multiple osteochondromas,0.9434,TP
+IMG000477.jpeg,multiple osteochondromas,0.938,multiple osteochondromas,0.8658,TP
+IMG000477.jpeg,multiple osteochondromas,0.9022,multiple osteochondromas,0.6531,TP
+IMG000477.jpeg,multiple osteochondromas,0.8788,multiple osteochondromas,0.6399,TP
+IMG000502.jpeg,osteochondroma,0.292,osteochondroma,0.6066,TP
+IMG000502.jpeg,,,osteochondroma,,FN
+IMG000506.jpeg,simple bone cyst,0.9168,,0.0,FP
+IMG000506.jpeg,simple bone cyst,0.8913,,0.0,FP
+IMG000506.jpeg,,,osteochondroma,,FN
+IMG000506.jpeg,,,osteochondroma,,FN
+IMG000515.jpeg,osteochondroma,0.9068,,0.0,FP
+IMG000515.jpeg,osteochondroma,0.8949,,0.0,FP
+IMG000515.jpeg,,,other bt,,FN
+IMG000515.jpeg,,,other bt,,FN
+IMG000539.jpeg,osteochondroma,0.3706,,0.0,FP
+IMG000539.jpeg,osteochondroma,0.3052,,0.0,FP
+IMG000539.jpeg,,,osteofibroma,,FN
+IMG000539.jpeg,,,osteofibroma,,FN
+IMG000542.jpeg,osteochondroma,0.7444,osteochondroma,0.6009,TP
+IMG000542.jpeg,osteochondroma,0.7419,osteochondroma,0.5853,TP
+IMG000543.jpeg,osteofibroma,0.5092,osteofibroma,0.958,TP
+IMG000543.jpeg,osteofibroma,0.5078,osteofibroma,0.8595,TP
+IMG000543.jpeg,osteochondroma,0.3671,,0.0,FP
+IMG000543.jpeg,osteochondroma,0.289,,0.0,FP
+IMG000547.jpeg,osteochondroma,0.6164,osteochondroma,0.6756,TP
+IMG000547.jpeg,osteochondroma,0.6029,osteochondroma,0.6305,TP
+IMG000549.jpeg,osteochondroma,0.43,,0.0,FP
+IMG000549.jpeg,osteochondroma,0.3782,,0.0,FP
+IMG000549.jpeg,other bt,0.3596,,0.0,FP
+IMG000549.jpeg,other bt,0.3298,,0.0,FP
+IMG000549.jpeg,osteofibroma,0.2825,osteofibroma,0.6704,TP
+IMG000549.jpeg,osteofibroma,0.2735,osteofibroma,0.6551,TP
+IMG000553.jpeg,simple bone cyst,0.9164,simple bone cyst,0.9541,TP
+IMG000553.jpeg,simple bone cyst,0.9114,simple bone cyst,0.872,TP
+IMG000564.jpeg,osteochondroma,0.3315,,0.4177,FP
+IMG000564.jpeg,osteochondroma,0.3169,,0.4179,FP
+IMG000564.jpeg,osteochondroma,0.256,osteochondroma,0.6451,TP
+IMG000564.jpeg,,,osteochondroma,,FN
+IMG000570.jpeg,giant cell tumor,0.5782,,0.0,FP
+IMG000570.jpeg,giant cell tumor,0.5642,,0.0,FP
+IMG000570.jpeg,osteochondroma,0.3602,,0.0,FP
+IMG000570.jpeg,osteochondroma,0.3461,,0.0,FP
+IMG000570.jpeg,multiple osteochondromas,0.2615,,0.0,FP
+IMG000570.jpeg,,,multiple osteochondromas,,FN
+IMG000570.jpeg,,,multiple osteochondromas,,FN
+IMG000570.jpeg,,,multiple osteochondromas,,FN
+IMG000570.jpeg,,,multiple osteochondromas,,FN
+IMG000593.jpeg,osteochondroma,0.4559,,0.0,FP
+IMG000593.jpeg,osteochondroma,0.4271,,0.0,FP
+IMG000593.jpeg,osteofibroma,0.2912,,0.4814,FP
+IMG000593.jpeg,multiple osteochondromas,0.2795,,0.0,FP
+IMG000593.jpeg,osteochondroma,0.2512,,0.0,FP
+IMG000593.jpeg,,,osteofibroma,,FN
+IMG000593.jpeg,,,osteofibroma,,FN
+IMG000601.jpeg,osteofibroma,0.8754,osteofibroma,0.954,TP
+IMG000601.jpeg,osteofibroma,0.8203,osteofibroma,0.9556,TP
+IMG000601.jpeg,osteochondroma,0.3939,,0.0,FP
+IMG000601.jpeg,osteochondroma,0.3564,,0.0,FP
+IMG000645.jpeg,osteochondroma,0.716,osteochondroma,0.9008,TP
+IMG000645.jpeg,osteochondroma,0.6806,osteochondroma,0.9415,TP
+IMG000647.jpeg,osteochondroma,0.3445,,0.0,FP
+IMG000647.jpeg,osteochondroma,0.3276,,0.0,FP
+IMG000647.jpeg,synovial osteochondroma,0.2547,,0.0,FP
+IMG000647.jpeg,,,osteochondroma,,FN
+IMG000647.jpeg,,,osteochondroma,,FN
+IMG000665.jpeg,multiple osteochondromas,0.5168,,0.0,FP
+IMG000665.jpeg,multiple osteochondromas,0.4304,,0.0,FP
+IMG000665.jpeg,synovial osteochondroma,0.2637,,0.0,FP
+IMG000665.jpeg,,,multiple osteochondromas,,FN
+IMG000665.jpeg,,,multiple osteochondromas,,FN
+IMG000690.jpeg,simple bone cyst,0.6705,simple bone cyst,0.8354,TP
+IMG000690.jpeg,simple bone cyst,0.6474,simple bone cyst,0.7289,TP
+IMG000697.jpeg,osteochondroma,0.4795,osteochondroma,0.7501,TP
+IMG000697.jpeg,osteofibroma,0.4791,,0.0,FP
+IMG000697.jpeg,osteofibroma,0.4447,,0.0,FP
+IMG000697.jpeg,osteochondroma,0.4381,osteochondroma,0.7643,TP
+IMG000705.jpeg,osteochondroma,0.8156,,0.448,FP
+IMG000705.jpeg,osteochondroma,0.7982,,0.4138,FP
+IMG000705.jpeg,,,osteochondroma,,FN
+IMG000705.jpeg,,,osteochondroma,,FN
+IMG000728.jpeg,osteochondroma,0.725,osteochondroma,0.6443,TP
+IMG000728.jpeg,osteochondroma,0.7166,osteochondroma,0.6022,TP
+IMG000736.jpeg,osteochondroma,0.7895,,0.303,FP
+IMG000736.jpeg,osteochondroma,0.7758,,0.309,FP
+IMG000736.jpeg,,,osteochondroma,,FN
+IMG000736.jpeg,,,osteochondroma,,FN
+IMG000741.jpeg,osteochondroma,0.6791,osteochondroma,0.5401,TP
+IMG000741.jpeg,osteochondroma,0.6607,,0.2895,FP
+IMG000741.jpeg,,,osteochondroma,,FN
+IMG000742.jpeg,,,osteochondroma,,FN
+IMG000742.jpeg,,,osteochondroma,,FN
+IMG000748.jpeg,osteochondroma,0.8012,osteochondroma,0.8311,TP
+IMG000748.jpeg,osteochondroma,0.7866,osteochondroma,0.711,TP
+IMG000759.jpeg,giant cell tumor,0.6065,,0.4644,FP
+IMG000759.jpeg,giant cell tumor,0.6046,,0.4686,FP
+IMG000759.jpeg,giant cell tumor,0.569,giant cell tumor,0.6166,TP
+IMG000759.jpeg,giant cell tumor,0.5211,giant cell tumor,0.6203,TP
+IMG000759.jpeg,,,giant cell tumor,,FN
+IMG000759.jpeg,,,giant cell tumor,,FN
+IMG000776.jpeg,osteochondroma,0.5066,,0.0,FP
+IMG000776.jpeg,multiple osteochondromas,0.471,multiple osteochondromas,0.7737,TP
+IMG000776.jpeg,multiple osteochondromas,0.4447,multiple osteochondromas,0.8275,TP
+IMG000776.jpeg,osteochondroma,0.3491,,0.0,FP
+IMG000776.jpeg,osteochondroma,0.3241,,0.0,FP
+IMG000776.jpeg,osteochondroma,0.2818,,0.0,FP
+IMG000778.jpeg,multiple osteochondromas,0.9055,multiple osteochondromas,0.9157,TP
+IMG000778.jpeg,multiple osteochondromas,0.9004,multiple osteochondromas,0.8697,TP
+IMG000778.jpeg,multiple osteochondromas,0.8647,multiple osteochondromas,0.8221,TP
+IMG000778.jpeg,multiple osteochondromas,0.859,multiple osteochondromas,0.6914,TP
+IMG000779.jpeg,multiple osteochondromas,0.9023,multiple osteochondromas,0.8502,TP
+IMG000779.jpeg,multiple osteochondromas,0.8889,multiple osteochondromas,0.8512,TP
+IMG000779.jpeg,multiple osteochondromas,0.5048,multiple osteochondromas,0.5357,TP
+IMG000779.jpeg,multiple osteochondromas,0.4858,,0.4699,FP
+IMG000779.jpeg,,,multiple osteochondromas,,FN
+IMG000782.jpeg,osteosarcoma,0.7506,,0.0,FP
+IMG000782.jpeg,osteosarcoma,0.7035,,0.0,FP
+IMG000782.jpeg,giant cell tumor,0.586,giant cell tumor,0.8163,TP
+IMG000782.jpeg,giant cell tumor,0.5401,giant cell tumor,0.7837,TP
+IMG000789.jpeg,simple bone cyst,0.6588,,0.0,FP
+IMG000789.jpeg,simple bone cyst,0.6211,,0.0,FP
+IMG000789.jpeg,simple bone cyst,0.3965,,0.0,FP
+IMG000789.jpeg,simple bone cyst,0.3582,,0.0,FP
+IMG000789.jpeg,other bt,0.3206,other bt,0.9179,TP
+IMG000789.jpeg,other bt,0.2952,other bt,0.878,TP
+IMG000811.jpeg,giant cell tumor,0.8614,giant cell tumor,0.9031,TP
+IMG000811.jpeg,giant cell tumor,0.853,giant cell tumor,0.8166,TP
+IMG000818.jpeg,multiple osteochondromas,0.9407,multiple osteochondromas,0.9602,TP
+IMG000818.jpeg,multiple osteochondromas,0.9191,multiple osteochondromas,0.8777,TP
+IMG000818.jpeg,multiple osteochondromas,0.8993,multiple osteochondromas,0.9368,TP
+IMG000818.jpeg,multiple osteochondromas,0.8942,multiple osteochondromas,0.9106,TP
+IMG000818.jpeg,multiple osteochondromas,0.736,,0.3879,FP
+IMG000818.jpeg,multiple osteochondromas,0.695,,0.3571,FP
+IMG000818.jpeg,multiple osteochondromas,0.6224,multiple osteochondromas,0.5453,TP
+IMG000818.jpeg,multiple osteochondromas,0.5955,multiple osteochondromas,0.5756,TP
+IMG000818.jpeg,multiple osteochondromas,0.5048,,0.1773,FP
+IMG000818.jpeg,multiple osteochondromas,0.4648,,0.1674,FP
+IMG000818.jpeg,multiple osteochondromas,0.4494,multiple osteochondromas,0.9319,TP
+IMG000818.jpeg,multiple osteochondromas,0.416,,0.0564,FP
+IMG000818.jpeg,multiple osteochondromas,0.3999,,0.0472,FP
+IMG000818.jpeg,multiple osteochondromas,0.3369,multiple osteochondromas,0.6628,TP
+IMG000818.jpeg,multiple osteochondromas,0.2908,,0.0,FP
+IMG000818.jpeg,multiple osteochondromas,0.2565,,0.0,FP
+IMG000818.jpeg,,,multiple osteochondromas,,FN
+IMG000818.jpeg,,,multiple osteochondromas,,FN
+IMG000822.jpeg,giant cell tumor,0.7792,giant cell tumor,0.6615,TP
+IMG000822.jpeg,giant cell tumor,0.7574,giant cell tumor,0.6328,TP
+IMG000860.jpeg,osteochondroma,0.4408,osteochondroma,0.5741,TP
+IMG000860.jpeg,osteochondroma,0.4219,,0.4716,FP
+IMG000860.jpeg,osteochondroma,0.292,,0.3129,FP
+IMG000860.jpeg,,,osteochondroma,,FN
+IMG000865.jpeg,osteochondroma,0.5226,osteochondroma,0.8781,TP
+IMG000865.jpeg,osteochondroma,0.503,osteochondroma,0.8431,TP
+IMG000866.jpeg,osteochondroma,0.812,osteochondroma,0.7588,TP
+IMG000866.jpeg,osteochondroma,0.8045,osteochondroma,0.7724,TP
+IMG000878.jpeg,osteochondroma,0.9053,osteochondroma,0.8581,TP
+IMG000878.jpeg,osteochondroma,0.8948,osteochondroma,0.8645,TP
+IMG000920.jpeg,osteochondroma,0.6454,osteochondroma,0.5888,TP
+IMG000920.jpeg,osteochondroma,0.6286,osteochondroma,0.6057,TP
+IMG000929.jpeg,osteochondroma,0.6028,,0.4593,FP
+IMG000929.jpeg,osteochondroma,0.5677,,0.4843,FP
+IMG000929.jpeg,,,osteochondroma,,FN
+IMG000929.jpeg,,,osteochondroma,,FN
+IMG000940.jpeg,multiple osteochondromas,0.7894,multiple osteochondromas,0.8319,TP
+IMG000940.jpeg,multiple osteochondromas,0.7559,multiple osteochondromas,0.8615,TP
+IMG000941.jpeg,multiple osteochondromas,0.6779,,0.4891,FP
+IMG000941.jpeg,multiple osteochondromas,0.5639,,0.4038,FP
+IMG000941.jpeg,multiple osteochondromas,0.5516,,0.0,FP
+IMG000941.jpeg,multiple osteochondromas,0.5241,,0.0,FP
+IMG000941.jpeg,multiple osteochondromas,0.3903,,0.0,FP
+IMG000941.jpeg,multiple osteochondromas,0.3545,,0.0,FP
+IMG000941.jpeg,multiple osteochondromas,0.299,,0.0,FP
+IMG000941.jpeg,multiple osteochondromas,0.2862,,0.0,FP
+IMG000941.jpeg,multiple osteochondromas,0.2568,,0.0,FP
+IMG000941.jpeg,multiple osteochondromas,0.2514,,0.0,FP
+IMG000941.jpeg,,,multiple osteochondromas,,FN
+IMG000941.jpeg,,,multiple osteochondromas,,FN
+IMG000947.jpeg,osteochondroma,0.8713,osteochondroma,0.7201,TP
+IMG000947.jpeg,osteochondroma,0.8713,osteochondroma,0.6174,TP
+IMG000947.jpeg,osteochondroma,0.8665,,0.0,FP
+IMG000947.jpeg,osteochondroma,0.8601,,0.0,FP
+IMG000959.jpeg,osteochondroma,0.2898,,0.4243,FP
+IMG000959.jpeg,osteochondroma,0.2813,,0.4305,FP
+IMG000959.jpeg,,,osteochondroma,,FN
+IMG000959.jpeg,,,osteochondroma,,FN
+IMG001011.jpeg,other bt,0.3596,other bt,0.5663,TP
+IMG001011.jpeg,other bt,0.2999,other bt,0.5363,TP
+IMG001011.jpeg,other bt,0.2785,,0.0,FP
+IMG001023.jpeg,osteochondroma,0.4749,,0.0,FP
+IMG001023.jpeg,osteochondroma,0.4692,,0.0,FP
+IMG001023.jpeg,osteochondroma,0.3793,osteochondroma,0.5164,TP
+IMG001023.jpeg,osteochondroma,0.34,,0.4309,FP
+IMG001023.jpeg,,,osteochondroma,,FN
+IMG001035.jpeg,osteochondroma,0.786,osteochondroma,0.5905,TP
+IMG001035.jpeg,osteochondroma,0.7753,osteochondroma,0.5758,TP
+IMG001044.jpeg,osteochondroma,0.8715,osteochondroma,0.7342,TP
+IMG001044.jpeg,osteochondroma,0.8401,osteochondroma,0.6989,TP
+IMG001084.jpeg,multiple osteochondromas,0.8027,multiple osteochondromas,0.7287,TP
+IMG001084.jpeg,multiple osteochondromas,0.7971,multiple osteochondromas,0.6952,TP
+IMG001094.jpeg,multiple osteochondromas,0.871,multiple osteochondromas,0.9677,TP
+IMG001094.jpeg,multiple osteochondromas,0.841,multiple osteochondromas,0.8594,TP
+IMG001094.jpeg,multiple osteochondromas,0.8365,multiple osteochondromas,0.6819,TP
+IMG001094.jpeg,multiple osteochondromas,0.8326,multiple osteochondromas,0.6964,TP
+IMG001094.jpeg,multiple osteochondromas,0.8323,multiple osteochondromas,0.76,TP
+IMG001094.jpeg,multiple osteochondromas,0.8008,multiple osteochondromas,0.8133,TP
+IMG001094.jpeg,multiple osteochondromas,0.487,,0.0,FP
+IMG001094.jpeg,multiple osteochondromas,0.4548,,0.0,FP
+IMG001094.jpeg,multiple osteochondromas,0.4159,,0.0,FP
+IMG001094.jpeg,multiple osteochondromas,0.3989,,0.0,FP
+IMG001094.jpeg,multiple osteochondromas,0.346,,0.0,FP
+IMG001094.jpeg,multiple osteochondromas,0.2992,,0.0,FP
+IMG001099.jpeg,multiple osteochondromas,0.7654,multiple osteochondromas,0.6818,TP
+IMG001099.jpeg,multiple osteochondromas,0.7618,multiple osteochondromas,0.6063,TP
+IMG001099.jpeg,multiple osteochondromas,0.7326,multiple osteochondromas,0.552,TP
+IMG001099.jpeg,multiple osteochondromas,0.7,,0.4938,FP
+IMG001099.jpeg,,,multiple osteochondromas,,FN
+IMG001100.jpeg,multiple osteochondromas,0.8192,multiple osteochondromas,0.7671,TP
+IMG001100.jpeg,multiple osteochondromas,0.8104,multiple osteochondromas,0.7223,TP
+IMG001100.jpeg,multiple osteochondromas,0.7397,multiple osteochondromas,0.8723,TP
+IMG001100.jpeg,multiple osteochondromas,0.7265,multiple osteochondromas,0.9168,TP
+IMG001100.jpeg,multiple osteochondromas,0.7156,multiple osteochondromas,0.8176,TP
+IMG001100.jpeg,multiple osteochondromas,0.6944,multiple osteochondromas,0.8729,TP
+IMG001104.jpeg,multiple osteochondromas,0.8178,multiple osteochondromas,0.7892,TP
+IMG001104.jpeg,multiple osteochondromas,0.8017,multiple osteochondromas,0.8071,TP
+IMG001104.jpeg,multiple osteochondromas,0.6818,multiple osteochondromas,0.5199,TP
+IMG001104.jpeg,multiple osteochondromas,0.6731,multiple osteochondromas,0.5052,TP
+IMG001104.jpeg,multiple osteochondromas,0.2796,,0.0,FP
+IMG001117.jpeg,osteochondroma,0.825,osteochondroma,0.8831,TP
+IMG001117.jpeg,osteochondroma,0.8116,osteochondroma,0.9218,TP
+IMG001131.jpeg,synovial osteochondroma,0.3839,,0.3641,FP
+IMG001131.jpeg,synovial osteochondroma,0.3581,synovial osteochondroma,0.9639,TP
+IMG001131.jpeg,synovial osteochondroma,0.3141,,0.3789,FP
+IMG001131.jpeg,synovial osteochondroma,0.2664,synovial osteochondroma,0.9487,TP
+IMG001131.jpeg,synovial osteochondroma,0.2539,,0.0,FP
+IMG001134.jpeg,osteochondroma,0.7976,,0.0,FP
+IMG001134.jpeg,osteochondroma,0.7628,,0.0,FP
+IMG001134.jpeg,,,other bt,,FN
+IMG001134.jpeg,,,other bt,,FN
+IMG001141.jpeg,osteochondroma,0.5695,,0.3684,FP
+IMG001141.jpeg,osteochondroma,0.5465,,0.4279,FP
+IMG001141.jpeg,,,osteochondroma,,FN
+IMG001141.jpeg,,,osteochondroma,,FN
+IMG001150.jpeg,other mt,0.6838,,0.0,FP
+IMG001150.jpeg,other mt,0.5911,,0.0,FP
+IMG001150.jpeg,osteofibroma,0.2837,,0.0,FP
+IMG001150.jpeg,,,other bt,,FN
+IMG001150.jpeg,,,other bt,,FN
+IMG001162.jpeg,osteochondroma,0.8367,osteochondroma,0.8048,TP
+IMG001162.jpeg,osteochondroma,0.8126,osteochondroma,0.7868,TP
+IMG001183.jpeg,synovial osteochondroma,0.9218,synovial osteochondroma,0.7561,TP
+IMG001183.jpeg,synovial osteochondroma,0.9105,synovial osteochondroma,0.664,TP
+IMG001183.jpeg,multiple osteochondromas,0.253,,0.0,FP
+IMG001196.jpeg,synovial osteochondroma,0.9264,synovial osteochondroma,0.9154,TP
+IMG001196.jpeg,synovial osteochondroma,0.9162,synovial osteochondroma,0.9002,TP
+IMG001198.jpeg,synovial osteochondroma,0.9259,synovial osteochondroma,0.9002,TP
+IMG001198.jpeg,synovial osteochondroma,0.9222,synovial osteochondroma,0.8951,TP
+IMG001207.jpeg,synovial osteochondroma,0.9256,synovial osteochondroma,0.9408,TP
+IMG001207.jpeg,synovial osteochondroma,0.8563,synovial osteochondroma,0.9015,TP
+IMG001207.jpeg,synovial osteochondroma,0.8368,,0.0,FP
+IMG001210.jpeg,synovial osteochondroma,0.9254,synovial osteochondroma,0.8923,TP
+IMG001210.jpeg,synovial osteochondroma,0.9081,synovial osteochondroma,0.8907,TP
+IMG001221.jpeg,synovial osteochondroma,0.9291,synovial osteochondroma,0.8299,TP
+IMG001221.jpeg,synovial osteochondroma,0.9129,synovial osteochondroma,0.8542,TP
+IMG001222.jpeg,synovial osteochondroma,0.9246,synovial osteochondroma,0.8969,TP
+IMG001222.jpeg,synovial osteochondroma,0.9155,synovial osteochondroma,0.8856,TP
+IMG001233.jpeg,osteochondroma,0.7316,,0.0,FP
+IMG001233.jpeg,osteochondroma,0.7294,,0.0,FP
+IMG001233.jpeg,osteochondroma,0.4568,,0.0,FP
+IMG001233.jpeg,osteochondroma,0.4455,,0.0,FP
+IMG001233.jpeg,,,synovial osteochondroma,,FN
+IMG001233.jpeg,,,synovial osteochondroma,,FN
+IMG001237.jpeg,synovial osteochondroma,0.8549,synovial osteochondroma,0.6374,TP
+IMG001237.jpeg,synovial osteochondroma,0.8376,synovial osteochondroma,0.6394,TP
+IMG001248.jpeg,simple bone cyst,0.2933,,0.0,FP
+IMG001248.jpeg,simple bone cyst,0.2516,,0.0,FP
+IMG001248.jpeg,,,osteochondroma,,FN
+IMG001248.jpeg,,,osteochondroma,,FN
+IMG001267.jpeg,osteochondroma,0.7049,,0.0,FP
+IMG001267.jpeg,osteochondroma,0.6426,,0.0,FP
+IMG001267.jpeg,,,simple bone cyst,,FN
+IMG001267.jpeg,,,simple bone cyst,,FN
+IMG001286.jpeg,other bt,0.7098,,0.3923,FP
+IMG001286.jpeg,other bt,0.6499,,0.4274,FP
+IMG001286.jpeg,osteofibroma,0.321,,0.0,FP
+IMG001286.jpeg,other bt,0.3145,other bt,0.5095,TP
+IMG001286.jpeg,,,other bt,,FN
+IMG001286.jpeg,,,other bt,,FN
+IMG001286.jpeg,,,other bt,,FN
+IMG001286.jpeg,,,other bt,,FN
+IMG001286.jpeg,,,other bt,,FN
+IMG001286.jpeg,,,other bt,,FN
+IMG001286.jpeg,,,other bt,,FN
+IMG001286.jpeg,,,other bt,,FN
+IMG001286.jpeg,,,other bt,,FN
+IMG001286.jpeg,,,other bt,,FN
+IMG001286.jpeg,,,other bt,,FN
+IMG001286.jpeg,,,other bt,,FN
+IMG001286.jpeg,,,other bt,,FN
+IMG001288.jpeg,other bt,0.9365,other bt,0.7829,TP
+IMG001288.jpeg,other bt,0.9337,other bt,0.8004,TP
+IMG001288.jpeg,,,other bt,,FN
+IMG001288.jpeg,,,other bt,,FN
+IMG001288.jpeg,,,other bt,,FN
+IMG001288.jpeg,,,other bt,,FN
+IMG001301.jpeg,multiple osteochondromas,0.8836,multiple osteochondromas,0.8914,TP
+IMG001301.jpeg,multiple osteochondromas,0.8598,multiple osteochondromas,0.8921,TP
+IMG001301.jpeg,multiple osteochondromas,0.81,,0.4166,FP
+IMG001301.jpeg,multiple osteochondromas,0.731,multiple osteochondromas,0.7082,TP
+IMG001301.jpeg,multiple osteochondromas,0.7048,,0.4154,FP
+IMG001301.jpeg,multiple osteochondromas,0.683,multiple osteochondromas,0.6769,TP
+IMG001301.jpeg,multiple osteochondromas,0.4998,multiple osteochondromas,0.8269,TP
+IMG001301.jpeg,multiple osteochondromas,0.4201,multiple osteochondromas,0.5424,TP
+IMG001301.jpeg,multiple osteochondromas,0.4169,multiple osteochondromas,0.8229,TP
+IMG001301.jpeg,multiple osteochondromas,0.3635,multiple osteochondromas,0.6569,TP
+IMG001301.jpeg,multiple osteochondromas,0.3432,multiple osteochondromas,0.7577,TP
+IMG001301.jpeg,multiple osteochondromas,0.3378,,0.0,FP
+IMG001301.jpeg,multiple osteochondromas,0.3278,,0.0,FP
+IMG001301.jpeg,multiple osteochondromas,0.3091,multiple osteochondromas,0.5875,TP
+IMG001301.jpeg,multiple osteochondromas,0.3032,,0.0,FP
+IMG001301.jpeg,multiple osteochondromas,0.2601,,0.0,FP
+IMG001302.jpeg,multiple osteochondromas,0.8011,,0.3944,FP
+IMG001302.jpeg,multiple osteochondromas,0.5116,,0.3961,FP
+IMG001302.jpeg,multiple osteochondromas,0.4786,,0.1851,FP
+IMG001302.jpeg,multiple osteochondromas,0.4276,,0.1927,FP
+IMG001302.jpeg,multiple osteochondromas,0.3474,,0.4529,FP
+IMG001302.jpeg,multiple osteochondromas,0.3448,multiple osteochondromas,0.5981,TP
+IMG001302.jpeg,multiple osteochondromas,0.3437,multiple osteochondromas,0.5415,TP
+IMG001302.jpeg,multiple osteochondromas,0.3328,,0.3064,FP
+IMG001302.jpeg,multiple osteochondromas,0.3082,,0.0,FP
+IMG001302.jpeg,multiple osteochondromas,0.3069,,0.0,FP
+IMG001302.jpeg,multiple osteochondromas,0.3053,,0.0,FP
+IMG001302.jpeg,multiple osteochondromas,0.3017,,0.138,FP
+IMG001302.jpeg,multiple osteochondromas,0.2965,,0.0,FP
+IMG001302.jpeg,multiple osteochondromas,0.2862,,0.0609,FP
+IMG001302.jpeg,multiple osteochondromas,0.2812,,0.0615,FP
+IMG001302.jpeg,multiple osteochondromas,0.2773,,0.3069,FP
+IMG001302.jpeg,multiple osteochondromas,0.2743,,0.4524,FP
+IMG001302.jpeg,multiple osteochondromas,0.2602,,0.0,FP
+IMG001302.jpeg,,,multiple osteochondromas,,FN
+IMG001302.jpeg,,,multiple osteochondromas,,FN
+IMG001302.jpeg,,,multiple osteochondromas,,FN
+IMG001302.jpeg,,,multiple osteochondromas,,FN
+IMG001310.jpeg,osteochondroma,0.7725,,0.4706,FP
+IMG001310.jpeg,osteochondroma,0.7666,,0.3848,FP
+IMG001310.jpeg,,,osteochondroma,,FN
+IMG001310.jpeg,,,osteochondroma,,FN
+IMG001311.jpeg,osteochondroma,0.7564,osteochondroma,0.907,TP
+IMG001311.jpeg,osteochondroma,0.7381,osteochondroma,0.5693,TP
+IMG001311.jpeg,osteochondroma,0.3328,,0.0,FP
+IMG001311.jpeg,osteochondroma,0.2982,,0.0,FP
+IMG001317.jpeg,osteochondroma,0.7418,osteochondroma,0.5498,TP
+IMG001317.jpeg,osteochondroma,0.7196,,0.3809,FP
+IMG001317.jpeg,,,osteochondroma,,FN
+IMG001328.jpeg,osteochondroma,0.7781,osteochondroma,0.6833,TP
+IMG001328.jpeg,osteochondroma,0.7726,osteochondroma,0.6659,TP
+IMG001331.jpeg,multiple osteochondromas,0.4139,,0.0,FP
+IMG001331.jpeg,multiple osteochondromas,0.4077,,0.0,FP
+IMG001331.jpeg,,,osteofibroma,,FN
+IMG001331.jpeg,,,osteofibroma,,FN
+IMG001343.jpeg,osteochondroma,0.6719,osteochondroma,0.6141,TP
+IMG001343.jpeg,osteochondroma,0.6643,,0.4142,FP
+IMG001343.jpeg,,,osteochondroma,,FN
+IMG001355.jpeg,simple bone cyst,0.9342,simple bone cyst,0.9408,TP
+IMG001355.jpeg,simple bone cyst,0.9204,simple bone cyst,0.9538,TP
+IMG001373.jpeg,osteosarcoma,0.8544,osteosarcoma,0.8205,TP
+IMG001373.jpeg,osteosarcoma,0.8372,osteosarcoma,0.8561,TP
+IMG001386.jpeg,simple bone cyst,0.912,simple bone cyst,0.8264,TP
+IMG001386.jpeg,simple bone cyst,0.9006,simple bone cyst,0.8334,TP
+IMG001394.jpeg,osteochondroma,0.8593,osteochondroma,0.9281,TP
+IMG001394.jpeg,osteochondroma,0.8327,osteochondroma,0.9475,TP
+IMG001397.jpeg,osteosarcoma,0.937,osteosarcoma,0.9233,TP
+IMG001397.jpeg,osteosarcoma,0.9307,osteosarcoma,0.9014,TP
+IMG001400.jpeg,giant cell tumor,0.9074,,0.4332,FP
+IMG001400.jpeg,giant cell tumor,0.9005,,0.4273,FP
+IMG001400.jpeg,,,giant cell tumor,,FN
+IMG001400.jpeg,,,giant cell tumor,,FN
+IMG001403.jpeg,simple bone cyst,0.9151,simple bone cyst,0.9152,TP
+IMG001403.jpeg,simple bone cyst,0.9027,simple bone cyst,0.92,TP
+IMG001410.jpeg,osteosarcoma,0.8768,osteosarcoma,0.7501,TP
+IMG001410.jpeg,osteosarcoma,0.8614,osteosarcoma,0.7545,TP
+IMG001430.jpeg,osteosarcoma,0.3692,osteosarcoma,0.7009,TP
+IMG001430.jpeg,simple bone cyst,0.3186,,0.0,FP
+IMG001430.jpeg,osteosarcoma,0.2815,osteosarcoma,0.6915,TP
+IMG001430.jpeg,osteosarcoma,0.2719,,0.0,FP
+IMG001437.jpeg,multiple osteochondromas,0.8957,multiple osteochondromas,0.9493,TP
+IMG001437.jpeg,multiple osteochondromas,0.8855,multiple osteochondromas,0.912,TP
+IMG001437.jpeg,multiple osteochondromas,0.8504,multiple osteochondromas,0.9529,TP
+IMG001437.jpeg,multiple osteochondromas,0.8425,multiple osteochondromas,0.9481,TP
+IMG001437.jpeg,,,multiple osteochondromas,,FN
+IMG001437.jpeg,,,multiple osteochondromas,,FN
+IMG001438.jpeg,multiple osteochondromas,0.8931,multiple osteochondromas,0.8937,TP
+IMG001438.jpeg,multiple osteochondromas,0.8807,multiple osteochondromas,0.5282,TP
+IMG001438.jpeg,multiple osteochondromas,0.8743,multiple osteochondromas,0.8682,TP
+IMG001438.jpeg,multiple osteochondromas,0.862,,0.3865,FP
+IMG001438.jpeg,multiple osteochondromas,0.8552,multiple osteochondromas,0.5035,TP
+IMG001438.jpeg,multiple osteochondromas,0.8329,,0.0,FP
+IMG001438.jpeg,multiple osteochondromas,0.8122,,0.3942,FP
+IMG001438.jpeg,multiple osteochondromas,0.793,,0.0988,FP
+IMG001438.jpeg,multiple osteochondromas,0.7806,,0.0,FP
+IMG001438.jpeg,multiple osteochondromas,0.7527,,0.3263,FP
+IMG001438.jpeg,multiple osteochondromas,0.7245,,0.3409,FP
+IMG001438.jpeg,multiple osteochondromas,0.7169,,0.1114,FP
+IMG001438.jpeg,,,multiple osteochondromas,,FN
+IMG001438.jpeg,,,multiple osteochondromas,,FN
+IMG001438.jpeg,,,multiple osteochondromas,,FN
+IMG001438.jpeg,,,multiple osteochondromas,,FN
+IMG001443.jpeg,multiple osteochondromas,0.9227,multiple osteochondromas,0.943,TP
+IMG001443.jpeg,multiple osteochondromas,0.9127,multiple osteochondromas,0.9572,TP
+IMG001467.jpeg,osteochondroma,0.8234,osteochondroma,0.7346,TP
+IMG001467.jpeg,osteochondroma,0.8219,osteochondroma,0.7221,TP
+IMG001471.jpeg,osteosarcoma,0.9449,osteosarcoma,0.9147,TP
+IMG001471.jpeg,osteosarcoma,0.9401,osteosarcoma,0.856,TP
+IMG001477.jpeg,multiple osteochondromas,0.9344,multiple osteochondromas,0.9704,TP
+IMG001477.jpeg,multiple osteochondromas,0.9337,multiple osteochondromas,0.9184,TP
+IMG001477.jpeg,multiple osteochondromas,0.9293,multiple osteochondromas,0.9619,TP
+IMG001477.jpeg,multiple osteochondromas,0.9212,multiple osteochondromas,0.9141,TP
+IMG001494.jpeg,giant cell tumor,0.9547,giant cell tumor,0.936,TP
+IMG001494.jpeg,giant cell tumor,0.9497,giant cell tumor,0.8991,TP
+IMG001495.jpeg,osteochondroma,0.8912,osteochondroma,0.5624,TP
+IMG001495.jpeg,osteochondroma,0.8807,osteochondroma,0.5765,TP
+IMG001509.jpeg,giant cell tumor,0.9287,giant cell tumor,0.9607,TP
+IMG001509.jpeg,giant cell tumor,0.9017,giant cell tumor,0.9446,TP
+IMG001517.jpeg,multiple osteochondromas,0.8871,multiple osteochondromas,0.828,TP
+IMG001517.jpeg,multiple osteochondromas,0.8838,multiple osteochondromas,0.8153,TP
+IMG001517.jpeg,multiple osteochondromas,0.839,multiple osteochondromas,0.924,TP
+IMG001517.jpeg,multiple osteochondromas,0.8111,,0.2951,FP
+IMG001517.jpeg,multiple osteochondromas,0.7944,,0.3097,FP
+IMG001517.jpeg,multiple osteochondromas,0.7757,multiple osteochondromas,0.9254,TP
+IMG001517.jpeg,multiple osteochondromas,0.6337,,0.4587,FP
+IMG001517.jpeg,multiple osteochondromas,0.6299,,0.2632,FP
+IMG001517.jpeg,multiple osteochondromas,0.5855,,0.4405,FP
+IMG001517.jpeg,multiple osteochondromas,0.5314,,0.2809,FP
+IMG001517.jpeg,multiple osteochondromas,0.4461,multiple osteochondromas,0.7899,TP
+IMG001517.jpeg,multiple osteochondromas,0.3892,multiple osteochondromas,0.7819,TP
+IMG001517.jpeg,multiple osteochondromas,0.3594,,0.0,FP
+IMG001517.jpeg,multiple osteochondromas,0.3449,,0.0,FP
+IMG001517.jpeg,multiple osteochondromas,0.3024,,0.0,FP
+IMG001517.jpeg,multiple osteochondromas,0.2833,,0.0,FP
+IMG001517.jpeg,multiple osteochondromas,0.2678,,0.0,FP
+IMG001517.jpeg,multiple osteochondromas,0.2546,,0.0,FP
+IMG001517.jpeg,,,multiple osteochondromas,,FN
+IMG001517.jpeg,,,multiple osteochondromas,,FN
+IMG001519.jpeg,osteochondroma,0.8223,osteochondroma,0.8591,TP
+IMG001519.jpeg,osteochondroma,0.7936,osteochondroma,0.8103,TP
+IMG001526.jpeg,simple bone cyst,0.5818,,0.0,FP
+IMG001526.jpeg,simple bone cyst,0.5577,,0.0,FP
+IMG001526.jpeg,giant cell tumor,0.4966,giant cell tumor,0.9496,TP
+IMG001526.jpeg,giant cell tumor,0.466,giant cell tumor,0.9351,TP
+IMG001530.jpeg,multiple osteochondromas,0.9318,multiple osteochondromas,0.8715,TP
+IMG001530.jpeg,multiple osteochondromas,0.907,multiple osteochondromas,0.8493,TP
+IMG001530.jpeg,multiple osteochondromas,0.9017,multiple osteochondromas,0.7983,TP
+IMG001530.jpeg,multiple osteochondromas,0.8849,multiple osteochondromas,0.8572,TP
+IMG001538.jpeg,giant cell tumor,0.3233,giant cell tumor,0.8185,TP
+IMG001538.jpeg,giant cell tumor,0.2602,giant cell tumor,0.7778,TP
+IMG001548.jpeg,giant cell tumor,0.8751,,0.0,FP
+IMG001548.jpeg,giant cell tumor,0.873,,0.0,FP
+IMG001548.jpeg,,,simple bone cyst,,FN
+IMG001548.jpeg,,,simple bone cyst,,FN
+IMG001555.jpeg,multiple osteochondromas,0.8171,multiple osteochondromas,0.8544,TP
+IMG001555.jpeg,multiple osteochondromas,0.7967,multiple osteochondromas,0.8516,TP
+IMG001555.jpeg,multiple osteochondromas,0.7665,multiple osteochondromas,0.8745,TP
+IMG001555.jpeg,multiple osteochondromas,0.7507,multiple osteochondromas,0.9299,TP
+IMG001555.jpeg,multiple osteochondromas,0.74,multiple osteochondromas,0.9166,TP
+IMG001555.jpeg,multiple osteochondromas,0.6883,multiple osteochondromas,0.8078,TP
+IMG001555.jpeg,multiple osteochondromas,0.4894,,0.3655,FP
+IMG001555.jpeg,multiple osteochondromas,0.4826,,0.3205,FP
+IMG001555.jpeg,multiple osteochondromas,0.4264,,0.2739,FP
+IMG001555.jpeg,multiple osteochondromas,0.3726,multiple osteochondromas,0.9321,TP
+IMG001555.jpeg,multiple osteochondromas,0.3562,,0.1017,FP
+IMG001555.jpeg,multiple osteochondromas,0.3561,multiple osteochondromas,0.8301,TP
+IMG001555.jpeg,multiple osteochondromas,0.3138,,0.0,FP
+IMG001555.jpeg,multiple osteochondromas,0.2653,,0.0,FP
+IMG001555.jpeg,multiple osteochondromas,0.2601,,0.0,FP
+IMG001564.jpeg,multiple osteochondromas,0.7374,multiple osteochondromas,0.8457,TP
+IMG001564.jpeg,multiple osteochondromas,0.7217,multiple osteochondromas,0.8032,TP
+IMG001564.jpeg,multiple osteochondromas,0.5661,multiple osteochondromas,0.6919,TP
+IMG001564.jpeg,multiple osteochondromas,0.5376,multiple osteochondromas,0.6833,TP
+IMG001564.jpeg,multiple osteochondromas,0.4214,,0.4953,FP
+IMG001564.jpeg,multiple osteochondromas,0.3886,multiple osteochondromas,0.516,TP
+IMG001564.jpeg,multiple osteochondromas,0.3763,multiple osteochondromas,0.7693,TP
+IMG001564.jpeg,multiple osteochondromas,0.3679,multiple osteochondromas,0.503,TP
+IMG001564.jpeg,osteochondroma,0.358,,0.0,FP
+IMG001564.jpeg,multiple osteochondromas,0.289,,0.0,FP
+IMG001564.jpeg,multiple osteochondromas,0.2775,,0.0,FP
+IMG001564.jpeg,,,multiple osteochondromas,,FN
+IMG001564.jpeg,,,multiple osteochondromas,,FN
+IMG001564.jpeg,,,multiple osteochondromas,,FN
+IMG001574.jpeg,osteosarcoma,0.9181,osteosarcoma,0.8158,TP
+IMG001574.jpeg,osteosarcoma,0.9005,osteosarcoma,0.8025,TP
+IMG001575.jpeg,osteosarcoma,0.9127,osteosarcoma,0.8726,TP
+IMG001575.jpeg,osteosarcoma,0.9028,osteosarcoma,0.864,TP
+IMG001584.jpeg,synovial osteochondroma,0.5138,synovial osteochondroma,0.834,TP
+IMG001584.jpeg,synovial osteochondroma,0.3564,,0.1055,FP
+IMG001584.jpeg,synovial osteochondroma,0.2617,synovial osteochondroma,0.8388,TP
+IMG001590.jpeg,multiple osteochondromas,0.8881,multiple osteochondromas,0.8514,TP
+IMG001590.jpeg,multiple osteochondromas,0.8696,multiple osteochondromas,0.7925,TP
+IMG001590.jpeg,multiple osteochondromas,0.8407,multiple osteochondromas,0.7944,TP
+IMG001590.jpeg,multiple osteochondromas,0.8353,multiple osteochondromas,0.8199,TP
+IMG001623.jpeg,osteochondroma,0.7188,osteochondroma,0.6799,TP
+IMG001623.jpeg,osteochondroma,0.4356,osteochondroma,0.6901,TP
+IMG001623.jpeg,osteochondroma,0.4163,,0.0,FP
+IMG001649.jpeg,osteosarcoma,0.8661,osteosarcoma,0.7709,TP
+IMG001649.jpeg,osteosarcoma,0.8537,osteosarcoma,0.6971,TP
+IMG001651.jpeg,other bt,0.9001,other bt,0.8779,TP
+IMG001651.jpeg,other bt,0.8824,other bt,0.8996,TP
+IMG001653.jpeg,,,osteofibroma,,FN
+IMG001653.jpeg,,,osteofibroma,,FN
+IMG001658.jpeg,simple bone cyst,0.8119,simple bone cyst,0.952,TP
+IMG001658.jpeg,simple bone cyst,0.7015,simple bone cyst,0.8323,TP
+IMG001684.jpeg,simple bone cyst,0.8633,simple bone cyst,0.8674,TP
+IMG001684.jpeg,simple bone cyst,0.8487,simple bone cyst,0.8519,TP
+IMG001699.jpeg,other bt,0.5531,,0.0,FP
+IMG001699.jpeg,other bt,0.5172,,0.0,FP
+IMG001699.jpeg,other bt,0.4147,,0.0,FP
+IMG001699.jpeg,other bt,0.2882,,0.0,FP
+IMG001699.jpeg,,,simple bone cyst,,FN
+IMG001699.jpeg,,,simple bone cyst,,FN
+IMG001709.jpeg,osteofibroma,0.7911,osteofibroma,0.8465,TP
+IMG001709.jpeg,osteofibroma,0.7135,osteofibroma,0.8553,TP
+IMG001727.jpeg,giant cell tumor,0.9528,giant cell tumor,0.9043,TP
+IMG001727.jpeg,giant cell tumor,0.9493,giant cell tumor,0.9078,TP
+IMG001736.jpeg,osteochondroma,0.8911,osteochondroma,0.9287,TP
+IMG001736.jpeg,osteochondroma,0.8736,osteochondroma,0.8983,TP
+IMG001750.jpeg,osteochondroma,0.8326,osteochondroma,0.8602,TP
+IMG001750.jpeg,osteochondroma,0.8261,osteochondroma,0.8429,TP
+IMG001750.jpeg,giant cell tumor,0.2914,,0.0,FP
+IMG001752.jpeg,osteochondroma,0.4851,,0.0,FP
+IMG001752.jpeg,osteochondroma,0.4833,,0.0,FP
+IMG001752.jpeg,other bt,0.3794,,0.0,FP
+IMG001752.jpeg,other bt,0.3554,,0.0,FP
+IMG001752.jpeg,,,other bt,,FN
+IMG001752.jpeg,,,other bt,,FN
+IMG001765.jpeg,osteochondroma,0.7158,osteochondroma,0.7075,TP
+IMG001765.jpeg,osteochondroma,0.6843,osteochondroma,0.6107,TP
+IMG001768.jpeg,other bt,0.7179,other bt,0.8155,TP
+IMG001768.jpeg,other bt,0.6044,other bt,0.8205,TP
+IMG001768.jpeg,simple bone cyst,0.2674,,0.0,FP
+IMG001775.jpeg,osteochondroma,0.9025,osteochondroma,0.8917,TP
+IMG001775.jpeg,osteochondroma,0.8889,osteochondroma,0.8117,TP
+IMG001781.jpeg,simple bone cyst,0.3906,,0.0,FP
+IMG001781.jpeg,simple bone cyst,0.3536,,0.0,FP
+IMG001781.jpeg,,,other bt,,FN
+IMG001781.jpeg,,,other bt,,FN
+IMG001798.jpeg,osteochondroma,0.4661,,0.0,FP
+IMG001798.jpeg,osteochondroma,0.4348,,0.0,FP
+IMG001798.jpeg,,,other bt,,FN
+IMG001798.jpeg,,,other bt,,FN
+IMG001815.jpeg,osteosarcoma,0.8726,,0.0,FP
+IMG001815.jpeg,osteosarcoma,0.8692,,0.0,FP
+IMG001815.jpeg,,,other bt,,FN
+IMG001815.jpeg,,,other bt,,FN
+IMG001822.jpeg,giant cell tumor,0.473,,0.0,FP
+IMG001822.jpeg,giant cell tumor,0.4441,,0.0,FP
+IMG001822.jpeg,simple bone cyst,0.4043,,0.0,FP
+IMG001822.jpeg,simple bone cyst,0.3671,,0.0,FP
+IMG001822.jpeg,,,other bt,,FN
+IMG001822.jpeg,,,other bt,,FN
+IMG001828.jpeg,osteochondroma,0.5686,osteochondroma,0.7919,TP
+IMG001828.jpeg,other mt,0.5375,,0.0,FP
+IMG001828.jpeg,osteochondroma,0.528,osteochondroma,0.7705,TP
+IMG001828.jpeg,other mt,0.4611,,0.0,FP
+IMG001832.jpeg,multiple osteochondromas,0.5053,multiple osteochondromas,0.5109,TP
+IMG001832.jpeg,osteochondroma,0.5003,,0.0,FP
+IMG001832.jpeg,multiple osteochondromas,0.4917,,0.4867,FP
+IMG001832.jpeg,osteochondroma,0.4609,,0.0,FP
+IMG001832.jpeg,multiple osteochondromas,0.2747,multiple osteochondromas,0.823,TP
+IMG001842.jpeg,simple bone cyst,0.7177,simple bone cyst,0.8676,TP
+IMG001842.jpeg,simple bone cyst,0.7064,simple bone cyst,0.802,TP
+IMG001842.jpeg,giant cell tumor,0.331,,0.0,FP
+IMG001846.jpeg,other bt,0.8334,other bt,0.8047,TP
+IMG001846.jpeg,other bt,0.7672,other bt,0.8701,TP
+IMG001850.jpeg,simple bone cyst,0.9119,simple bone cyst,0.9417,TP
+IMG001850.jpeg,simple bone cyst,0.9089,simple bone cyst,0.9253,TP
+IMG001851.jpeg,simple bone cyst,0.9288,simple bone cyst,0.781,TP
+IMG001851.jpeg,simple bone cyst,0.8939,simple bone cyst,0.7702,TP
+IMG001854.jpeg,simple bone cyst,0.9442,simple bone cyst,0.8464,TP
+IMG001854.jpeg,simple bone cyst,0.9394,simple bone cyst,0.7562,TP
+IMG001858.jpeg,osteochondroma,0.5814,,0.0,FP
+IMG001858.jpeg,multiple osteochondromas,0.5809,multiple osteochondromas,0.7757,TP
+IMG001858.jpeg,multiple osteochondromas,0.5649,multiple osteochondromas,0.747,TP
+IMG001858.jpeg,osteochondroma,0.5144,,0.0,FP
+IMG001858.jpeg,multiple osteochondromas,0.3212,,0.1824,FP
+IMG001858.jpeg,giant cell tumor,0.3055,,0.0,FP
+IMG001858.jpeg,multiple osteochondromas,0.273,,0.1635,FP
+IMG001858.jpeg,,,multiple osteochondromas,,FN
+IMG001858.jpeg,,,multiple osteochondromas,,FN
+IMG001858.jpeg,,,multiple osteochondromas,,FN
+IMG001858.jpeg,,,multiple osteochondromas,,FN
+IMG001860.jpeg,simple bone cyst,0.8459,simple bone cyst,0.8824,TP
+IMG001860.jpeg,simple bone cyst,0.8054,simple bone cyst,0.869,TP
+IMG001860.jpeg,other bt,0.3039,,0.0,FP
+IMG001860.jpeg,other bt,0.3009,,0.0,FP
+IMG001862.jpeg,multiple osteochondromas,0.8149,multiple osteochondromas,0.7022,TP
+IMG001862.jpeg,multiple osteochondromas,0.8115,,0.477,FP
+IMG001862.jpeg,multiple osteochondromas,0.7939,multiple osteochondromas,0.5598,TP
+IMG001862.jpeg,multiple osteochondromas,0.7879,multiple osteochondromas,0.5541,TP
+IMG001862.jpeg,multiple osteochondromas,0.5898,multiple osteochondromas,0.8055,TP
+IMG001862.jpeg,multiple osteochondromas,0.5761,multiple osteochondromas,0.9515,TP
+IMG001862.jpeg,multiple osteochondromas,0.5707,multiple osteochondromas,0.8411,TP
+IMG001862.jpeg,multiple osteochondromas,0.5382,,0.0,FP
+IMG001862.jpeg,multiple osteochondromas,0.5146,multiple osteochondromas,0.7959,TP
+IMG001862.jpeg,multiple osteochondromas,0.4711,,0.0,FP
+IMG001862.jpeg,multiple osteochondromas,0.4581,,0.0,FP
+IMG001862.jpeg,,,multiple osteochondromas,,FN
