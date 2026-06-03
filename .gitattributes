@@ -1,3 +1,2 @@
 rfdetr_weights/*.pth filter=lfs diff=lfs merge=lfs -text
 bone_tumor_project_complete/*.pth filter=lfs diff=lfs merge=lfs -text
-bone_tumor_project_complete.zip filter=lfs diff=lfs merge=lfs -text
